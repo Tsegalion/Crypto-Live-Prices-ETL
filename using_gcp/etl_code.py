@@ -7,7 +7,7 @@ from pandas_gbq import to_gbq
 
 load_dotenv()
 # Function to fetch cryptocurrency data from CoinCap
-def fetch_data(api_key):
+def fetch_crypto_data(api_key):
     # API endpoint URL
     baseurl = 'https://api.coincap.io/v2/'
     endpoint = 'assets'
@@ -24,7 +24,7 @@ def fetch_data(api_key):
     return price_data.json()['data']
 
 # Function to extract relevant data from the API response
-def extract_data(asset):
+def extract_crypto_data_fields(asset):
     # Get the current date and time
     return {
         'id' : asset['id'],
@@ -43,10 +43,10 @@ def main():
     project_id = os.getenv("GCP_PROJECT_ID")
 
     # Fetching cryptocurrency data from the CoinCap API
-    data = fetch_data(api_key)
+    data = fetch_crypto_data(api_key)
     
     # Extracting data for each asset in the API response
-    coin = [extract_data(asset) for asset in data]
+    coin = [extract_crypto_data_fields(asset) for asset in data]
     
     # Creating a DataFrame from the extracted data
     asset_update = pd.DataFrame(coin)

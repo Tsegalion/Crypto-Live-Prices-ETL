@@ -1,17 +1,17 @@
 import requests
 import pandas as pd
+import os
 from datetime import datetime
+from dotenv import load_dotenv
 from pandas_gbq import to_gbq
 
-# Project ID
-project_id = 'crypto-pipeline-398422'
-
+load_dotenv()
 # Function to fetch cryptocurrency data from CoinCap
 def fetch_data(api_key):
     # API endpoint URL
     baseurl = 'https://api.coincap.io/v2/'
     endpoint = 'assets'
-    
+
     # Inputing the API key in the request headers
     headers = {
         'Authorization': f'Bearer {api_key}'
@@ -25,52 +25,43 @@ def fetch_data(api_key):
 
 # Function to extract relevant data from the API response
 def extract_data(asset):
-    currency = asset['name']
-    
-    # Getting the current date and time
-    date_time = datetime.now()
-   
-    total_supply = asset['supply']
-    volumeUsd24Hr = asset['volumeUsd24Hr']
-    price = asset['priceUsd']
-    changePercent24Hr = asset['changePercent24Hr']
-
-    # Returning a dictionary that contains the extracted data
+    # Get the current date and time
     return {
-        'currency' : currency,
-        'date_time' : date_time,
-        'total_supply' : total_supply,
-        'volumeUsd24Hr' : volumeUsd24Hr,
-        'price' : price,
-        'changePercent24Hr' : changePercent24Hr
+        'id' : asset['id'],
+        'date_time' : datetime.now(),
+        'supply' : asset['supply'],
+        'volumeusd24hr' : asset['volumeUsd24Hr'],
+        'vwap24hr': asset["vwap24Hr"],
+        'price' : asset['priceUsd'],
+        'changepercent24hr' : asset['changePercent24Hr']
     }
 
-# Function to call the CoinCap API and process the data
-def call():
+# Main function to orchestrate the ETL process
+def main():
+    # Access environment variables
+    api_key = os.getenv("api_key")
+    project_id = os.getenv("GCP_PROJECT_ID")
+
     # Fetching cryptocurrency data from the CoinCap API
-    data = fetch_data('COIN_CAP_API')
+    data = fetch_data(api_key)
     
     # Extracting data for each asset in the API response
     coin = [extract_data(asset) for asset in data]
     
     # Creating a DataFrame from the extracted data
-    df = pd.DataFrame(coin)
-    
-    return df
-
-# Main function that orchestrates the data processing and loading to BigQuery
-def main():
-    # Assigned a variable name to the call function
-    asset_update = call()
+    asset_update = pd.DataFrame(coin)
 
     # TRANFORMATION 
     # Changing data types of selected columns to float
-    columns_to_convert = ['total_supply', 'volumeUsd24Hr', 'price', 'changePercent24Hr']
+    columns_to_convert = ['supply', 'vwap24hr', 'volumeusd24hr', 'price', 'changepercent24hr']
     asset_update[columns_to_convert] = asset_update[columns_to_convert].astype(float)
+
+    # Convert 'date_time' column to datetime format
+    asset_update['date_time'] = pd.to_datetime(asset_update['date_time'])
 
     # Loading the DataFrame to Google BigQuery
     asset_update.to_gbq('crypto-pipeline-398422.asset_updates.assets', project_id, if_exists='append')
 
-# This block ensures that the 'main' function is executed when the script is run
+
 if __name__ == "__main__":
     main()

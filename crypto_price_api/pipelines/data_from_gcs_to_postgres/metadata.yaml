@@ -1,0 +1,74 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks:
+  - field_transformation
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: asset_prices_extract
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: asset_prices_extract
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks:
+  - load_to_postgres_
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: field_transformation
+  retry_config: null
+  status: executed
+  timeout: null
+  type: transformer
+  upstream_blocks:
+  - asset_prices_extract
+  uuid: field_transformation
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: 'load_to_postgres '
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_exporter
+  upstream_blocks:
+  - field_transformation
+  uuid: load_to_postgres_
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2024-03-20 14:46:44.794650+00:00'
+data_integration: null
+description: null
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: data_from_gcs_to_postgres
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags: []
+type: python
+uuid: data_from_gcs_to_postgres
+variables_dir: C:\Users\Tsega/.mage_data\crypto_price_api
+widgets: []

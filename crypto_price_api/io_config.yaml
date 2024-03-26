@@ -1,0 +1,19 @@
+version: 0.1.1
+default:
+  # Default profile created for data IO access.
+  # Add your credentials for the source you use, and delete the rest.
+
+  # PostgresSQL
+  POSTGRES_CONNECT_TIMEOUT: 10
+  POSTGRES_DBNAME: cryptoassets
+  POSTGRES_SCHEMA: # Optional
+  POSTGRES_USER: Tsega
+  POSTGRES_PASSWORD: "{{ mage_secret_var('pg_pass') }}"
+  POSTGRES_HOST: localhost
+  POSTGRES_PORT: 5432
+  
+  # API key
+  api_key: "{{ mage_secret_var('coincap_api_key') }}"
+
+  # Google
+  GOOGLE_SERVICE_ACC_KEY_FILEPATH: C:\Users\Tsega\Crypto Live Prices ETL\crypto_price_api\image-processing-408908-9206c20d8eaa.json

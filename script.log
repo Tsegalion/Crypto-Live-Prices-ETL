@@ -1,1919 +1,0 @@
-2023-09-17 11:36:29,593 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:36:32,603 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:36:35,612 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:36:35,612 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:36:41,309 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:36:41,309 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:44:50,543 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:44:53,546 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:44:56,566 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:44:56,566 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:45:03,240 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:45:03,240 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:50:45,364 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:50:48,377 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:50:51,384 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:50:51,384 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:50:56,807 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:50:56,807 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:51:42,625 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:51:45,629 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:51:48,638 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:51:48,638 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:51:55,134 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:51:55,134 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:52:42,861 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:52:45,870 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:52:48,876 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:52:48,876 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:52:55,319 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:52:55,319 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:53:42,698 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:53:45,708 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:53:48,722 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:53:48,722 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:53:54,199 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:53:54,199 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:54:42,689 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:54:45,698 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:54:48,711 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:54:48,712 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:54:54,408 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:54:54,416 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:55:42,718 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:55:45,719 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:55:48,730 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:55:48,730 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:55:53,445 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:55:53,445 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:56:42,910 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:56:45,933 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:56:48,935 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:56:48,936 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:56:53,763 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:56:53,763 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:57:42,710 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:57:45,718 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:57:48,721 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:57:48,721 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:57:53,397 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:57:53,397 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:58:42,610 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:58:45,620 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:58:48,627 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:58:48,627 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:58:53,202 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:58:53,202 - INFO: Data loaded to BigQuery successfully
-2023-09-17 11:59:42,710 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 11:59:45,717 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 11:59:48,717 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 11:59:48,717 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 11:59:54,797 - INFO: 100 out of 100 rows loaded.
-2023-09-17 11:59:54,797 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:00:42,914 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:00:45,923 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:00:48,932 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:00:48,933 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:00:53,621 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:00:53,621 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:01:42,697 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:01:45,714 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:01:48,722 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:01:48,722 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:01:53,319 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:01:53,319 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:02:43,067 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:02:46,075 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:02:49,082 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:02:49,082 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:02:53,586 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:02:53,586 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:03:43,011 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:03:46,019 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:03:49,024 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:03:49,024 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:03:54,971 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:03:54,971 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:04:42,773 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:04:45,777 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:04:48,780 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:04:48,781 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:04:53,857 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:04:53,857 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:05:42,663 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:05:45,667 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:05:48,667 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:05:48,667 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:05:52,922 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:05:52,922 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:06:42,665 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:06:45,669 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:06:48,680 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:06:48,680 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:06:53,810 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:06:53,810 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:07:42,741 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:07:45,747 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:07:48,748 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:07:48,748 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:07:53,638 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:07:53,638 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:08:42,756 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:08:45,770 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:08:48,786 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:08:48,786 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:08:54,501 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:08:54,501 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:09:42,855 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:09:45,868 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:09:48,877 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:09:48,877 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:09:53,168 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:09:53,168 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:10:42,657 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:10:45,661 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:10:48,667 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:10:48,667 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:10:54,603 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:10:54,603 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:11:42,796 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:11:45,807 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:11:48,818 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:11:48,818 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:11:54,158 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:11:54,159 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:12:42,569 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:12:45,581 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:12:48,584 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:12:48,584 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:12:53,494 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:12:53,494 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:13:43,003 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:13:46,009 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:13:49,021 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:13:49,022 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:13:53,414 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:13:53,414 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:14:42,628 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:14:45,636 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:14:48,646 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:14:48,646 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:14:53,088 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:14:53,089 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:15:46,533 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:15:49,538 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:15:52,544 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:15:52,544 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:15:57,381 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:15:57,381 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:16:47,226 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:16:50,231 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:16:53,233 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:16:53,233 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:16:58,546 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:16:58,546 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:17:42,848 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:17:45,854 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:17:48,864 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:17:48,864 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:17:54,437 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:17:54,437 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:18:42,620 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:18:45,621 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:18:48,636 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:18:48,636 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:18:54,239 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:18:54,239 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:19:43,817 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:19:46,818 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:19:49,824 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:19:49,825 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:19:55,571 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:19:55,571 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:20:42,831 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:20:45,842 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:20:48,843 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:20:48,843 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:20:53,319 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:20:53,319 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:21:43,608 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:21:46,614 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:21:49,629 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:21:49,629 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:21:56,190 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:21:56,190 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:22:42,569 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:22:45,573 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:22:48,585 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:22:48,585 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:22:53,265 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:22:53,265 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:23:42,798 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:23:45,810 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:23:48,821 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:23:48,822 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:23:53,481 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:23:53,481 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:25:00,105 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:25:03,121 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:25:06,127 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:25:06,127 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:25:11,474 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:25:11,474 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:25:42,798 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:25:45,803 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:25:48,807 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:25:48,807 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:25:55,601 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:25:55,601 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:28:39,650 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:28:42,666 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:28:45,669 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:28:45,669 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:28:51,672 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:28:51,677 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:29:43,393 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:29:46,409 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:29:49,409 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:29:49,409 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:29:54,245 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:29:54,245 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:30:42,988 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:30:46,000 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:30:49,016 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:30:49,016 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:30:54,916 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:30:54,924 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:31:42,581 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:31:45,585 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:31:48,592 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:31:48,592 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:31:54,000 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:31:54,001 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:37:55,221 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:37:58,231 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:38:01,240 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:38:01,240 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:38:08,075 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:38:08,077 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:38:42,750 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:38:45,765 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:38:48,769 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:38:48,769 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:38:55,373 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:38:55,374 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:39:42,824 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:39:45,834 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:39:48,849 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:39:48,849 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:39:54,154 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:39:54,155 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:40:42,482 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:40:45,494 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:40:48,498 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:40:48,498 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:40:53,539 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:40:53,539 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:41:42,597 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:41:45,605 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:41:48,615 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:41:48,615 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:41:53,258 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:41:53,258 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:42:42,655 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:42:45,672 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:42:48,681 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:42:48,681 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:42:55,054 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:42:55,054 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:43:42,435 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:43:45,449 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:43:48,450 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:43:48,451 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:43:53,254 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:43:53,255 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:44:42,615 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:44:45,627 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:44:48,643 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:44:48,643 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:44:55,137 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:44:55,137 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:45:42,639 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:45:45,653 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:45:48,669 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:45:48,669 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:45:54,282 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:45:54,284 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:46:42,636 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:46:45,645 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:46:48,650 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:46:48,650 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:46:53,767 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:46:53,767 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:47:42,717 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:47:45,725 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:47:48,727 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:47:48,727 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:47:54,193 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:47:54,193 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:48:43,015 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:48:46,021 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:48:49,025 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:48:49,025 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:48:54,425 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:48:54,426 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:49:43,739 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:49:46,750 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:49:49,759 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:49:49,759 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:49:55,132 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:49:55,132 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:50:43,555 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:50:46,563 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:50:49,571 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:50:49,571 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:50:54,419 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:50:54,423 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:51:42,603 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:51:45,606 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:51:48,614 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:51:48,614 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:51:54,185 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:51:54,185 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:52:42,820 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:52:45,830 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:52:48,839 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:52:48,840 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:52:53,597 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:52:53,597 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:53:42,635 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:53:45,656 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:53:48,669 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:53:48,669 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:53:54,372 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:53:54,372 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:54:44,173 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:54:47,184 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:54:50,186 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:54:50,186 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:54:56,995 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:54:56,995 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:55:42,477 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:55:45,486 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:55:48,505 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:55:48,506 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:55:54,128 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:55:54,128 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:56:42,736 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:56:45,742 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:56:48,758 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:56:48,758 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:56:54,485 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:56:54,485 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:57:42,638 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:57:45,646 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:57:48,661 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:57:48,661 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:57:53,936 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:57:53,936 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:58:42,515 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:58:45,524 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:58:48,531 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:58:48,531 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:58:53,415 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:58:53,415 - INFO: Data loaded to BigQuery successfully
-2023-09-17 12:59:42,685 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 12:59:45,701 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 12:59:48,701 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 12:59:48,702 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 12:59:54,606 - INFO: 100 out of 100 rows loaded.
-2023-09-17 12:59:54,606 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:00:43,169 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:00:46,185 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:00:49,186 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:00:49,186 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:00:55,194 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:00:55,194 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:01:42,483 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:01:45,495 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:01:48,499 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:01:48,499 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:01:53,765 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:01:53,765 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:02:42,686 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:02:45,696 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:02:48,701 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:02:48,701 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:02:53,701 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:02:53,707 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:03:42,770 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:03:45,776 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:03:48,787 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:03:48,787 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:03:53,747 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:03:53,747 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:04:42,544 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:04:45,556 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:04:48,570 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:04:48,570 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:04:53,266 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:04:53,266 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:05:42,723 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:05:45,732 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:05:48,747 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:05:48,747 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:05:54,497 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:05:54,498 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:06:43,816 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:06:46,821 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:06:49,836 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:06:49,836 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:06:54,834 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:06:54,834 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:07:42,717 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:07:45,718 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:07:48,725 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:07:48,725 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:07:54,830 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:07:54,830 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:08:42,925 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:08:45,935 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:08:48,936 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:08:48,936 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:08:54,623 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:08:54,623 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:09:44,028 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:09:47,029 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:09:50,037 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:09:50,037 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:09:54,672 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:09:54,672 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:10:42,733 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:10:45,739 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:10:48,753 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:10:48,753 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:10:54,427 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:10:54,427 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:11:42,637 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:11:45,645 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:11:48,648 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:11:48,648 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:11:54,638 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:11:54,638 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:12:42,607 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:12:45,620 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:12:48,623 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:12:48,623 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:12:53,810 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:12:53,810 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:13:43,018 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:13:46,023 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:13:49,031 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:13:49,031 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:13:54,038 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:13:54,038 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:14:42,750 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:14:45,757 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:14:48,769 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:14:48,770 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:14:53,530 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:14:53,530 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:15:42,933 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:15:45,945 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:15:48,951 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:15:48,951 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:15:53,715 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:15:53,716 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:16:42,783 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:16:45,792 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:16:48,798 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:16:48,798 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:16:54,869 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:16:54,869 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:17:42,729 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:17:45,730 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:17:48,744 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:17:48,744 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:17:54,662 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:17:54,662 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:18:42,958 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:18:45,966 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:18:48,978 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:18:48,979 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:18:53,748 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:18:53,748 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:19:43,040 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:19:46,050 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:19:49,055 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:19:49,057 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:19:53,574 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:19:53,574 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:20:43,072 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:20:46,083 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:20:49,093 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:20:49,093 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:20:53,872 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:20:53,872 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:21:44,392 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:21:47,407 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:21:50,410 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:21:50,410 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:21:55,091 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:21:55,098 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:22:42,865 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:22:45,873 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:22:48,889 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:22:48,889 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:22:55,016 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:22:55,016 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:23:42,791 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:23:45,798 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:23:48,814 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:23:48,814 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:23:54,428 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:23:54,428 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:24:42,877 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:24:45,879 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:24:48,891 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:24:48,891 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:24:54,126 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:24:54,126 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:25:42,681 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:25:45,684 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:25:48,691 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:25:48,691 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:25:54,608 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:25:54,610 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:26:42,618 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:26:45,630 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:26:48,634 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:26:48,634 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:26:54,179 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:26:54,185 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:27:42,921 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:27:45,932 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:27:48,939 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:27:48,939 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:27:55,245 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:27:55,245 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:28:42,439 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:28:45,448 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:28:48,461 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:28:48,461 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:28:54,049 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:28:54,049 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:29:43,749 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:29:46,751 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:29:49,765 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:29:49,765 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:29:54,531 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:29:54,531 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:37:16,929 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:37:19,941 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:37:22,952 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:37:22,952 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:37:29,103 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:37:29,103 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:45:30,791 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:45:33,798 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:45:36,808 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:45:36,809 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:45:42,992 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:45:42,992 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:45:49,313 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:45:52,320 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:45:55,324 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:45:55,324 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:46:01,141 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:46:01,141 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:46:07,360 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:46:10,371 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:46:13,375 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:46:13,375 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:46:19,099 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:46:19,099 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:46:25,542 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:46:28,556 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:46:31,557 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:46:31,557 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:46:37,536 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:46:37,536 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:46:43,665 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:46:46,668 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:46:49,684 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:46:49,684 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:46:54,681 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:46:54,681 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:47:05,287 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:47:08,292 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:47:11,300 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:47:11,300 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:47:16,240 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:47:16,240 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:47:22,471 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:47:25,480 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:47:28,488 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:47:28,488 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:47:33,857 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:47:33,857 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:47:40,013 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:47:43,027 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:47:46,034 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:47:46,034 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:47:50,241 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:47:50,241 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:47:56,608 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:47:59,622 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:48:02,627 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:48:02,627 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:48:08,585 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:48:08,601 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:48:14,733 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:48:17,741 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:48:20,746 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:48:20,746 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:48:26,849 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:48:26,849 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:48:33,072 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:48:36,078 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:48:39,092 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:48:39,092 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:48:44,233 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:48:44,233 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:48:51,128 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:48:54,130 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:48:57,135 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:48:57,136 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:49:01,807 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:49:01,815 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:49:08,433 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:49:11,437 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:49:14,439 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:49:14,439 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:49:19,007 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:49:19,007 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:50:13,907 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:50:16,921 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:50:19,929 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:50:19,929 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:50:25,702 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:50:25,702 - INFO: Data loaded to BigQuery successfully
-2023-09-17 13:51:09,051 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 13:51:12,052 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 13:51:15,066 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 13:51:15,066 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 13:51:19,967 - INFO: 100 out of 100 rows loaded.
-2023-09-17 13:51:19,967 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:52:13,868 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:52:16,876 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:52:19,877 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:52:19,878 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:52:24,633 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:52:24,633 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:53:11,434 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:53:14,446 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:53:17,485 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:53:17,485 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:53:22,308 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:53:22,308 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:54:08,853 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:54:11,856 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:54:14,859 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:54:14,860 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:54:19,894 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:54:19,894 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:55:08,829 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:55:11,844 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:55:14,852 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:55:14,852 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:55:20,296 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:55:20,296 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:56:09,011 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:56:12,019 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:56:15,025 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:56:15,025 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:56:20,211 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:56:20,211 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:57:10,180 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:57:13,193 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:57:16,253 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:57:16,260 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:57:21,396 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:57:21,396 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:58:13,474 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:58:16,483 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:58:19,483 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:58:19,483 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:58:24,552 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:58:24,552 - INFO: Data loaded to BigQuery successfully
-2023-09-17 15:59:09,065 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 15:59:12,068 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 15:59:15,083 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 15:59:15,083 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 15:59:19,701 - INFO: 100 out of 100 rows loaded.
-2023-09-17 15:59:19,701 - INFO: Data loaded to BigQuery successfully
-2023-09-17 16:00:08,933 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 16:00:11,948 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 16:00:14,966 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 16:00:14,967 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 16:00:20,211 - INFO: 100 out of 100 rows loaded.
-2023-09-17 16:00:20,211 - INFO: Data loaded to BigQuery successfully
-2023-09-17 16:43:10,349 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 16:43:13,358 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 16:43:13,374 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
-2023-09-17 16:43:13,374 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 16:43:13,374 - ERROR: Error in main process: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002571A244B50>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
-2023-09-17 19:02:09,265 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:02:12,266 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:02:15,273 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:02:15,273 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:02:19,920 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:02:19,920 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:03:09,748 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:03:12,764 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:03:15,775 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:03:15,775 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:03:21,632 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:03:21,632 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:04:09,815 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:04:12,826 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:04:15,827 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:04:15,827 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:04:21,493 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:04:21,493 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:05:09,847 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:05:12,851 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:05:15,852 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:05:15,852 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:05:23,119 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:05:23,119 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:06:09,253 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:06:12,253 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:06:15,261 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:06:15,261 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:06:21,681 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:06:21,683 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:07:09,457 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:07:12,465 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:07:15,478 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:07:15,478 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:07:20,777 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:07:20,777 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:08:09,759 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:08:12,765 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:08:15,773 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:08:15,774 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:08:21,165 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:08:21,165 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:09:09,832 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 19:09:12,843 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 19:09:15,849 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 19:09:15,849 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 19:09:21,984 - INFO: 100 out of 100 rows loaded.
-2023-09-17 19:09:21,993 - INFO: Data loaded to BigQuery successfully
-2023-09-17 19:21:12,057 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:48:18,884 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:48:21,885 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:48:21,885 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:48:31,637 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:48:31,637 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:49:09,881 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:49:12,888 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:49:15,895 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:49:15,895 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:49:20,906 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:49:20,906 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:50:08,545 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:50:11,560 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:50:14,567 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:50:14,567 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:50:19,794 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:50:19,797 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:51:08,772 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:51:11,778 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:51:14,782 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:51:14,782 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:51:20,080 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:51:20,080 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:52:09,085 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:52:12,088 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:52:15,089 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:52:15,089 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:52:20,234 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:52:20,235 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:53:08,471 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:53:11,478 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:53:14,491 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:53:14,491 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:53:19,895 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:53:19,895 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:54:08,898 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:54:11,900 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:54:14,901 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:54:14,901 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:54:22,146 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:54:22,147 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:55:09,250 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:55:12,264 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:55:15,277 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:55:15,277 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:55:20,400 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:55:20,400 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:56:12,649 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:56:15,656 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:56:18,667 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:56:18,667 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:56:25,820 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:56:25,821 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:57:08,446 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:57:11,450 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:57:14,453 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:57:14,453 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:57:19,720 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:57:19,721 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:58:08,403 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:58:11,404 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:58:14,414 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:58:14,414 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:58:20,926 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:58:20,926 - INFO: Data loaded to BigQuery successfully
-2023-09-17 20:59:08,506 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 20:59:11,513 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 20:59:14,531 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 20:59:14,531 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 20:59:20,295 - INFO: 100 out of 100 rows loaded.
-2023-09-17 20:59:20,295 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:00:08,514 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:00:11,529 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:00:14,538 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:00:14,538 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:00:20,788 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:00:20,789 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:01:08,590 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:01:11,604 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:01:14,615 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:01:14,615 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:01:21,897 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:01:21,897 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:02:15,555 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:02:18,564 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:02:21,579 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:02:21,579 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:02:27,480 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:02:27,480 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:03:08,529 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:03:11,543 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:03:14,553 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:03:14,553 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:03:24,332 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:03:24,332 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:04:08,543 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:04:11,557 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:04:14,560 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:04:14,561 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:04:19,751 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:04:19,751 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:05:09,024 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:05:12,029 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:05:15,033 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:05:15,033 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:05:20,416 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:05:20,416 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:06:10,949 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:06:13,958 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:06:16,963 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:06:16,963 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:06:21,582 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:06:21,582 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:07:08,507 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:07:11,515 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:07:14,524 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:07:14,525 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:07:19,056 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:07:19,056 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:08:08,463 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:08:11,470 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:08:14,481 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:08:14,481 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:08:20,534 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:08:20,534 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:09:08,348 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:09:11,362 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:09:14,366 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:09:14,366 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:09:18,995 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:09:18,995 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:10:08,465 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:10:11,480 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:10:14,483 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:10:14,483 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:10:20,850 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:10:20,850 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:11:08,502 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:11:11,513 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:11:14,520 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:11:14,520 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:11:20,120 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:11:20,120 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:12:18,552 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:12:21,575 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:12:24,579 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:12:24,579 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:12:29,020 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:12:29,021 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:13:09,139 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:13:12,143 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:13:15,145 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:13:15,145 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:13:20,233 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:13:20,234 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:14:08,432 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:14:11,441 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:14:14,450 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:14:14,450 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:14:18,956 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:14:18,956 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:15:08,509 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:15:11,523 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:15:14,534 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:15:14,535 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:15:20,363 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:15:20,363 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:16:08,537 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:16:11,541 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:16:14,543 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:16:14,543 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:16:18,819 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:16:18,819 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:17:08,501 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:17:11,503 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:17:14,505 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:17:14,505 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:17:19,817 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:17:19,817 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:18:08,839 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:18:11,847 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:18:14,861 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:18:14,861 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:18:19,250 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:18:19,250 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:19:08,482 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:19:11,491 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:19:14,497 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:19:14,497 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:19:19,007 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:19:19,007 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:20:08,484 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:20:11,487 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:20:14,501 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:20:14,501 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:20:20,576 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:20:20,576 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:21:08,498 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:21:11,500 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:21:14,515 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:21:14,515 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:21:18,633 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:21:18,633 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:22:08,502 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:22:11,509 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:22:14,512 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:22:14,512 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:22:18,831 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:22:18,831 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:23:10,698 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:23:13,702 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:23:16,708 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:23:16,708 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:23:22,296 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:23:22,296 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:24:12,041 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:24:15,043 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:24:18,055 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:24:18,056 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:24:22,964 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:24:22,964 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:25:08,460 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:25:11,461 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:25:14,473 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:25:14,474 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:25:21,080 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:25:21,080 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:26:08,513 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:26:11,523 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:26:14,526 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:26:14,526 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:26:18,892 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:26:18,892 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:27:11,640 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:27:14,647 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:27:17,658 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:27:17,658 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:27:22,334 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:27:22,334 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:28:08,615 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:28:11,620 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:28:14,628 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:28:14,628 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:28:19,004 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:28:19,005 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:29:08,900 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:29:11,916 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:29:14,927 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:29:14,927 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:29:22,039 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:29:22,039 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:30:08,292 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:30:11,295 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:30:14,303 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:30:14,303 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:30:18,557 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:30:18,557 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:31:08,495 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:31:11,508 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:31:14,517 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:31:14,517 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:31:21,067 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:31:21,067 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:32:08,483 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:32:11,486 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:32:14,497 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:32:14,497 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:32:18,668 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:32:18,668 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:33:08,531 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:33:11,541 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:33:14,543 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:33:14,543 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:33:18,842 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:33:18,842 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:34:09,188 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:34:12,192 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:34:15,196 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:34:15,196 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:34:20,840 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:34:20,840 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:35:08,835 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:35:11,840 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:35:14,848 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:35:14,848 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:35:19,206 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:35:19,206 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:36:09,091 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:36:12,098 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:36:15,101 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:36:15,101 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:36:21,170 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:36:21,171 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:37:09,900 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:37:12,912 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:37:15,913 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:37:15,913 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:37:21,194 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:37:21,194 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:38:08,517 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:38:11,532 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:38:14,548 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:38:14,548 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:38:20,342 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:38:20,342 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:39:08,336 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:39:11,339 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:39:14,344 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:39:14,344 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:39:19,011 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:39:19,011 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:40:09,335 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:40:12,344 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:40:15,357 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:40:15,357 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:40:20,199 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:40:20,200 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:41:08,367 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:41:11,372 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:41:14,381 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:41:14,381 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:41:20,255 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:41:20,256 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:42:09,018 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:42:12,020 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:42:15,023 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:42:15,023 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:42:19,273 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:42:19,274 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:43:08,394 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:43:11,396 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:43:14,403 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:43:14,403 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:43:18,747 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:43:18,747 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:44:08,344 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:44:11,357 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:44:14,365 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:44:14,365 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:44:18,729 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:44:18,729 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:45:08,392 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:45:11,406 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:45:14,407 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:45:14,407 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:45:19,174 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:45:19,174 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:46:08,535 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:46:11,548 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:46:14,556 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:46:14,557 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:46:20,169 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:46:20,170 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:47:46,123 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:47:49,138 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:47:52,144 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:47:52,144 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:47:56,877 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:47:56,877 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:48:08,565 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:48:11,572 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:48:14,573 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:48:14,574 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:48:20,067 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:48:20,067 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:49:08,986 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:49:11,994 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:49:15,000 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:49:15,000 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:49:20,041 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:49:20,041 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:50:08,893 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:50:11,908 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:50:14,916 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:50:14,916 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:50:21,164 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:50:21,164 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:51:08,990 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:51:12,005 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:51:15,020 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:51:15,020 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:51:20,171 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:51:20,172 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:52:08,754 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:52:11,759 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:52:14,770 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:52:14,770 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:52:19,749 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:52:19,749 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:53:09,088 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:53:12,101 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:53:15,106 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:53:15,106 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:53:19,823 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:53:19,825 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:54:08,822 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:54:11,836 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:54:14,842 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:54:14,843 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:54:19,468 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:54:19,468 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:55:08,543 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:55:11,555 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:55:14,556 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:55:14,556 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:55:19,664 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:55:19,665 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:56:08,380 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:56:11,384 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:56:14,397 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:56:14,397 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:56:19,243 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:56:19,243 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:57:08,435 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:57:11,452 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:57:14,466 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:57:14,466 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:57:19,734 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:57:19,735 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:58:08,852 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:58:11,868 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:58:14,882 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:58:14,882 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:58:19,936 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:58:19,936 - INFO: Data loaded to BigQuery successfully
-2023-09-17 21:59:08,852 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 21:59:11,854 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 21:59:14,857 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 21:59:14,857 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 21:59:20,305 - INFO: 100 out of 100 rows loaded.
-2023-09-17 21:59:20,305 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:00:08,873 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:00:11,883 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:00:14,895 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:00:14,895 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:00:19,729 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:00:19,731 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:01:08,807 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:01:11,810 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:01:14,819 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:01:14,819 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:01:19,537 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:01:19,538 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:02:08,574 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:02:11,585 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:02:14,589 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:02:14,589 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:02:19,479 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:02:19,479 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:03:08,388 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:03:11,397 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:03:14,405 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:03:14,405 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:03:19,537 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:03:19,537 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:04:13,204 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:04:16,212 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:04:19,227 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:04:19,227 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:04:24,258 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:04:24,258 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:05:08,873 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:05:11,890 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:05:14,896 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:05:14,896 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:05:20,317 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:05:20,317 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:06:08,496 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:06:11,503 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:06:14,512 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:06:14,513 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:06:19,372 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:06:19,372 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:07:08,439 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:07:11,444 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:07:14,449 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:07:14,449 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:07:18,824 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:07:18,824 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:08:08,514 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:08:11,517 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:08:14,529 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:08:14,529 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:08:18,808 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:08:18,808 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:09:08,911 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:09:11,925 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:09:14,937 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:09:14,937 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:09:20,121 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:09:20,121 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:10:08,420 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:10:11,432 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:10:14,446 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:10:14,446 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:10:19,286 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:10:19,287 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:11:08,724 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:11:11,736 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:11:14,747 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:11:14,747 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:11:19,171 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:11:19,172 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:12:08,902 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:12:11,914 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:12:14,914 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:12:14,914 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:12:19,312 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:12:19,312 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:13:11,758 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:13:14,769 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:13:17,783 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:13:17,783 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:13:22,927 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:13:22,928 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:14:08,640 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:14:11,642 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:14:14,657 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:14:14,657 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:14:19,004 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:14:19,005 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:15:11,487 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:15:14,488 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:15:17,491 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:15:17,491 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:15:23,494 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:15:23,494 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:16:08,390 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:16:11,394 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:16:14,411 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:16:14,411 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:16:18,544 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:16:18,544 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:17:09,283 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:17:12,292 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:17:15,296 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:17:15,296 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:17:20,619 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:17:20,620 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:33:46,269 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:33:49,283 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:33:52,295 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:33:52,295 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:33:58,955 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:33:58,964 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:34:09,264 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:34:12,266 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:34:15,280 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:34:15,281 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:34:20,588 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:34:20,588 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:35:09,748 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:35:12,755 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:35:15,762 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:35:15,762 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:35:20,521 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:35:20,521 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:36:08,844 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:36:11,846 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:36:14,862 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:36:14,862 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:36:20,324 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:36:20,324 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:37:09,961 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:37:12,972 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:37:15,987 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:37:15,987 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:37:21,257 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:37:21,257 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:38:08,949 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:38:11,962 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:38:14,964 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:38:14,964 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:38:20,056 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:38:20,056 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:39:08,984 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:39:11,990 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:39:14,997 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:39:14,997 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:39:21,573 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:39:21,573 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:40:08,676 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:40:11,691 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:40:14,696 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:40:14,696 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:40:20,242 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:40:20,242 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:41:09,089 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:41:12,089 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:41:15,097 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:41:15,098 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:41:20,643 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:41:20,643 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:42:08,756 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:42:11,773 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:42:14,773 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:42:14,773 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:42:20,257 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:42:20,257 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:43:09,004 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:43:12,006 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:43:15,006 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:43:15,006 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:43:20,686 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:43:20,701 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:44:09,184 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:44:12,199 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:44:15,210 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:44:15,210 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:44:21,491 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:44:21,491 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:45:08,991 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:45:11,992 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:45:15,005 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:45:15,005 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:45:19,558 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:45:19,558 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:46:08,806 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:46:11,822 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:46:14,836 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:46:14,836 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:46:19,662 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:46:19,662 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:47:08,797 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:47:11,805 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:47:14,814 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:47:14,814 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:47:19,300 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:47:19,300 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:48:09,072 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:48:12,087 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:48:15,101 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:48:15,102 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:48:21,101 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:48:21,101 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:49:08,707 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:49:11,713 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:49:14,719 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:49:14,719 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:49:19,922 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:49:19,923 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:50:08,963 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:50:11,976 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:50:14,989 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:50:14,989 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:50:21,480 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:50:21,480 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:51:08,582 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:51:11,588 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:51:14,601 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:51:14,601 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:51:20,612 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:51:20,612 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:52:08,807 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:52:11,821 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:52:14,831 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:52:14,831 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:52:19,907 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:52:19,907 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:53:09,495 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:53:12,511 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:53:15,521 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:53:15,521 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:53:20,920 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:53:20,929 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:54:09,005 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:54:12,005 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:54:15,011 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:54:15,011 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:54:21,152 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:54:21,152 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:55:08,708 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:55:11,714 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:55:14,725 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:55:14,725 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:55:20,848 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:55:20,848 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:56:09,000 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:56:12,005 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:56:15,012 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:56:15,012 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:56:19,719 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:56:19,719 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:57:09,326 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:57:12,330 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:57:15,333 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:57:15,333 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:57:20,237 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:57:20,237 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:58:09,852 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:58:12,856 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:58:15,871 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:58:15,871 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:58:20,448 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:58:20,448 - INFO: Data loaded to BigQuery successfully
-2023-09-17 22:59:09,631 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 22:59:12,638 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 22:59:15,638 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 22:59:15,640 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 22:59:20,177 - INFO: 100 out of 100 rows loaded.
-2023-09-17 22:59:20,177 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:00:09,056 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:00:12,072 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:00:15,074 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:00:15,074 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:00:19,340 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:00:19,340 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:01:09,104 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:01:12,115 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:01:15,124 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:01:15,125 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:01:19,695 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:01:19,710 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:02:08,823 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:02:11,827 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:02:14,829 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:02:14,830 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:02:19,135 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:02:19,135 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:03:08,774 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:03:11,781 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:03:14,789 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:03:14,789 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:03:20,372 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:03:20,372 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:04:09,039 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:04:12,056 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:04:15,060 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:04:15,060 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:04:20,732 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:04:20,732 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:05:09,259 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:05:12,272 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:05:15,287 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:05:15,287 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:05:19,827 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:05:19,827 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:06:08,979 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:06:11,992 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:06:14,995 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:06:14,995 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:06:19,467 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:06:19,467 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:07:08,867 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:07:11,876 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:07:14,883 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:07:14,883 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:07:19,757 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:07:19,759 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:08:08,712 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:08:11,716 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:08:14,731 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:08:14,731 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:08:21,748 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:08:21,748 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:09:08,912 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:09:11,922 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:09:14,926 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:09:14,926 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:09:20,006 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:09:20,006 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:10:08,767 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:10:11,768 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:10:14,778 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:10:14,778 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:10:19,673 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:10:19,673 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:11:08,889 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:11:11,902 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:11:14,914 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:11:14,914 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:11:20,619 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:11:20,619 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:12:08,887 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:12:11,901 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:12:14,907 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:12:14,907 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:12:19,511 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:12:19,511 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:13:09,043 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:13:12,055 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:13:15,063 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:13:15,063 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:13:21,137 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:13:21,137 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:14:09,107 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:14:12,121 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:14:15,123 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:14:15,123 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:14:20,241 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:14:20,241 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:15:10,503 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:15:13,508 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:15:16,519 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:15:16,519 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:15:22,401 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:15:22,401 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:16:10,189 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:16:13,199 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:16:16,207 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:16:16,207 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:16:21,746 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:16:21,746 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:17:09,436 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:17:12,448 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:17:15,457 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:17:15,457 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:17:20,463 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:17:20,463 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:18:09,082 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:18:12,086 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:18:15,087 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:18:15,087 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:18:20,875 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:18:20,878 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:19:09,879 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:19:12,888 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:19:15,899 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:19:15,899 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:19:22,080 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:19:22,083 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:20:10,956 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:20:13,959 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:20:16,964 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:20:16,965 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:20:23,284 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:20:23,284 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:21:09,138 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:21:12,145 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:21:15,155 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:21:15,155 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:21:21,258 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:21:21,258 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:22:10,077 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:22:13,081 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:22:16,094 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:22:16,094 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:22:21,108 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:22:21,108 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:23:09,055 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:23:12,064 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:23:15,069 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:23:15,069 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:23:20,301 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:23:20,301 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:24:08,995 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:24:12,002 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:24:15,008 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:24:15,008 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:24:19,878 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:24:19,878 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:25:08,876 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:25:11,888 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:25:14,902 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:25:14,902 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:25:22,246 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:25:22,246 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:26:08,722 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:26:11,732 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:26:14,734 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:26:14,734 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:26:21,033 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:26:21,033 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:27:09,176 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:27:12,185 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:27:15,200 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:27:15,200 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:27:20,306 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:27:20,314 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:28:09,073 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:28:12,079 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:28:15,087 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:28:15,087 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:28:19,893 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:28:19,893 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:29:08,998 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:29:12,013 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:29:15,019 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:29:15,019 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:29:20,012 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:29:20,020 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:30:09,914 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:30:12,923 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:30:15,935 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:30:15,935 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:30:22,333 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:30:22,333 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:31:10,552 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:31:13,566 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:31:16,574 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:31:16,574 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:31:21,128 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:31:21,128 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:32:09,824 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:32:12,833 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:32:15,835 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:32:15,836 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:32:20,742 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:32:20,759 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:33:09,809 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:33:12,820 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:33:15,829 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:33:15,829 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:33:22,193 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:33:22,194 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:34:09,099 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:34:12,099 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:34:15,108 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:34:15,108 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:34:21,275 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:34:21,275 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:35:09,029 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:35:12,037 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:35:15,053 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:35:15,053 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:35:19,429 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:35:19,445 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:36:09,290 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:36:12,296 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:36:15,300 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:36:15,301 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:36:19,805 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:36:19,805 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:37:08,951 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:37:11,963 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:37:14,969 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:37:14,969 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:37:19,958 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:37:19,958 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:38:08,941 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:38:11,943 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:38:14,955 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:38:14,955 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:38:20,710 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:38:20,710 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:39:09,262 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:39:12,271 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:39:15,276 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:39:15,277 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:39:19,706 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:39:19,706 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:40:08,969 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:40:11,971 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:40:14,978 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:40:14,978 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:40:20,787 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:40:20,787 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:41:08,710 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:41:11,718 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:41:14,729 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:41:14,729 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:41:20,485 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:41:20,485 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:42:09,012 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:42:12,020 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:42:15,029 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:42:15,029 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:42:20,938 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:42:20,938 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:43:08,787 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:43:11,788 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:43:14,796 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:43:14,796 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:43:20,329 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:43:20,329 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:44:08,749 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:44:11,757 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:44:14,767 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:44:14,767 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:44:21,761 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:44:21,761 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:45:08,834 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:45:11,838 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:45:14,851 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:45:14,851 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:45:20,363 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:45:20,363 - INFO: Data loaded to BigQuery successfully
-2023-09-17 23:46:08,968 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-17 23:46:11,972 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-17 23:46:14,973 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-17 23:46:14,973 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-17 23:46:19,680 - INFO: 100 out of 100 rows loaded.
-2023-09-17 23:46:19,682 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:26:08,808 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:26:11,817 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:26:14,826 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:26:14,826 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:26:20,717 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:26:20,717 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:27:09,346 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:27:12,347 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:27:15,361 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:27:15,362 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:27:21,262 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:27:21,262 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:28:07,799 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:28:10,804 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:28:13,813 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:28:13,813 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:28:19,294 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:28:19,295 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:29:08,254 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:29:11,269 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:29:14,276 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:29:14,277 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:29:19,427 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:29:19,427 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:30:08,263 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:30:11,274 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:30:14,290 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:30:14,290 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:30:20,083 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:30:20,083 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:31:09,987 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:31:12,997 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:31:16,002 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:31:16,003 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:31:21,606 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:31:21,606 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:32:09,874 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:32:12,885 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:32:15,889 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:32:15,889 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:32:20,481 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:32:20,483 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:33:08,201 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:33:11,205 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:33:14,211 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:33:14,211 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:33:20,488 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:33:20,488 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:34:08,078 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:34:11,087 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:34:14,092 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:34:14,092 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:34:18,950 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:34:18,950 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:35:08,050 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:35:11,056 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:35:14,065 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:35:14,066 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:35:19,056 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:35:19,056 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:36:07,952 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:36:10,953 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:36:13,968 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:36:13,968 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:36:19,383 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:36:19,383 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:37:07,730 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:37:10,731 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:37:13,741 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:37:13,741 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:37:19,376 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:37:19,376 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:38:08,094 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:38:11,108 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:38:14,118 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:38:14,118 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:38:20,384 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:38:20,384 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:39:07,675 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:39:10,683 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:39:13,698 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:39:13,698 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:39:19,890 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:39:19,890 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:40:07,950 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:40:10,953 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:40:13,960 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:40:13,961 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:40:19,081 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:40:19,081 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:41:08,174 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:41:11,184 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:41:14,199 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:41:14,200 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:41:19,606 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:41:19,609 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:42:08,233 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:42:11,238 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:42:14,243 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:42:14,244 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:42:19,711 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:42:19,713 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:43:07,959 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:43:10,961 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:43:13,970 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:43:13,970 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:43:19,103 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:43:19,103 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:44:07,855 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:44:10,861 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:44:13,877 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:44:13,877 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:44:19,099 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:44:19,099 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:45:07,632 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:45:10,640 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:45:13,654 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:45:13,654 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:45:19,396 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:45:19,401 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:46:07,738 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:46:10,753 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:46:13,759 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:46:13,759 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:46:19,015 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:46:19,030 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:47:08,046 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:47:11,060 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:47:14,066 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:47:14,066 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:47:19,680 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:47:19,680 - INFO: Data loaded to BigQuery successfully
-2023-09-18 00:50:35,228 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 00:50:38,236 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 00:50:41,255 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 00:50:41,255 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 00:50:47,450 - INFO: 100 out of 100 rows loaded.
-2023-09-18 00:50:47,450 - INFO: Data loaded to BigQuery successfully
-2023-09-18 01:26:10,096 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 01:26:13,114 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 01:26:16,127 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 01:26:16,127 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 01:26:21,636 - INFO: 100 out of 100 rows loaded.
-2023-09-18 01:26:21,642 - INFO: Data loaded to BigQuery successfully
-2023-09-18 08:23:12,596 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 08:23:15,606 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 08:23:18,611 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 08:23:18,611 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 08:23:23,305 - INFO: 100 out of 100 rows loaded.
-2023-09-18 08:23:23,305 - INFO: Data loaded to BigQuery successfully
-2023-09-18 09:52:23,569 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 09:52:26,579 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 09:52:29,592 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 09:52:29,592 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 09:52:34,862 - INFO: 100 out of 100 rows loaded.
-2023-09-18 09:52:34,862 - INFO: Data loaded to BigQuery successfully
-2023-09-18 10:27:37,011 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
-2023-09-18 10:27:40,028 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
-2023-09-18 10:27:43,042 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
-2023-09-18 10:27:43,042 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
-2023-09-18 10:27:49,907 - INFO: 100 out of 100 rows loaded.
-2023-09-18 10:27:49,907 - INFO: Data loaded to BigQuery successfully

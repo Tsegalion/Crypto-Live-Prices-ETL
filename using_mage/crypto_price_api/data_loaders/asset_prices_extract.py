@@ -82,3 +82,4 @@ def test_output(output, *args):
     # Ensure the output DataFrame has the expected columns
     expected_columns = ['id', 'date_time', 'supply', 'volumeusd24hr', 'vwap24hr', 'price', 'changepercent24hr']
     assert all(col in output.columns for col in expected_columns), "Output DataFrame doesn't have the expected columns"
+# end

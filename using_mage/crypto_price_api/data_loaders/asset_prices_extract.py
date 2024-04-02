@@ -15,7 +15,7 @@ def load_data_from_coincap_api(*args, **kwargs):
         # Initialize the ConfigFileLoader object with the path to the configuration file and profile to retrieve the API key
         config_loader = ConfigFileLoader(filepath='crypto_price_api\io_config.yaml', profile='default')
         config = config_loader.config
-        api_key = config.get('api_key')
+        api_key = config.get('Coincap_api_key')
 
         baseurl = 'https://api.coincap.io/v2/'
         endpoint = 'assets'

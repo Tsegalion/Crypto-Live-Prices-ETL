@@ -13,3 +13,5 @@ mage-ai.db
 mage_data/
 secrets/
 image-processing-408908-9206c20d8eaa.json
+.env/
+.yaml/
